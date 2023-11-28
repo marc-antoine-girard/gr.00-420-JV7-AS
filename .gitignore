@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/Artic/[Ll]ibrary/
-/Artic/[Tt]emp/
-/Artic/[Oo]bj/
-/Artic/[Bb]uild/
-/Artic/[Bb]uilds/
-/Artic/[Ll]ogs/
-/Artic/[Uu]ser[Ss]ettings/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 
 # output dir
 Bin/
